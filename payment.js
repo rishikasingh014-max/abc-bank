@@ -1,1 +1,1 @@
-console.log ("payment feature by Dev1");
+console.log("payment feature by Dev1");
